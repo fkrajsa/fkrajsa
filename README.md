@@ -1,8 +1,5 @@
-👋 Hi there, I’m Filip (aka @fkrajsa) <br>
-💡 Passionate about 3D printing, modeling, and digital design. <br>
-📫 You can reach me at fkstudio@fkstudio.cz or through my profile links. <br>
-
-<!---
-fkrajsa/fkrajsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hey, I’m Filip (@fkrajsa) <br>
+🧩 I design, print, and create — from 3D models to real-world prints. <br>
+💡 Big fan of anything that mixes tech, design, and creativity. <br>
+🖨️ 3D printing is not just a hobby — it’s my playground. <br>
+📫 Reach me at fkstudio@fkstudio.cz or through the links on my profile. <br>
